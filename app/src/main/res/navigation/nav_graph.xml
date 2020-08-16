@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/nav"
+            app:startDestination="@id/mainFragment">
+
+    <fragment
+            android:id="@+id/mainFragment"
+            android:name="com.bilingoal.virustracker.main.MainFragment"
+            android:label="@string/app_name">
+
+
+        <action android:id="@+id/action_mainFragment_to_detailsFragment" app:destination="@id/detailsFragment"
+                app:enterAnim="@anim/slide_in_left" app:exitAnim="@anim/slide_out_left"
+                app:popEnterAnim="@anim/slide_in_right" app:popExitAnim="@anim/slide_out_right"
+                app:popUpToInclusive="false"/>
+        <action android:id="@+id/action_mainFragment_to_settingsFragment" app:destination="@id/settingsFragment"
+                app:enterAnim="@anim/slide_in_left"
+                app:exitAnim="@anim/slide_out_left"
+                app:popEnterAnim="@anim/slide_in_left" app:popExitAnim="@anim/slide_out_right"
+                app:popUpToInclusive="false"/>
+    </fragment>
+
+    <fragment
+            android:id="@+id/detailsFragment"
+            android:name="com.bilingoal.virustracker.details.DetailsFragment"
+            android:label="Details"
+            tools:layout="@layout/fragment_details"/>
+
+    <fragment
+            android:id="@+id/settingsFragment"
+            android:name="com.bilingoal.virustracker.settings.SettingsFragment"
+            android:label="Settings"
+            tools:layout="@layout/fragment_settings"/>
+</navigation>

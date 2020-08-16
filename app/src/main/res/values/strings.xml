@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CoVirus</string>
+    <string name="bottom_nav_menu_global">Worldwide</string>
+    <string name="bottom_nav_menu_countries">Countries</string>
+    <string name="global">Worldwide</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="top5_title">Top 5 most-affected countries</string>
+    <string name="top5_desc">List of countries with most confirmed cases in the world</string>
+    <string name="retry_btn">Retry</string>
+    <string name="error_layout_secondary_text">Make sure you are connected to a Wi-Fi or a mobile network and try
+        again.
+    </string>
+    <string name="error_layout_title">Sorry! Something went wrong…</string>
+    <string name="error_message">Something went wrong</string>
+    <string name="error_layout_emoji">:(</string>
+
+    <string name="parse_date_error_title">Parse Error</string>
+    <string name="parse_date_error_body">There was a problem parsing the date</string>
+
+    <string name="total_cases_subtitle">The total number of coronavirus cases in %1s</string>
+    <string name="no_data_text">Please Wait</string>
+    <string name="system_message_info_title">Info</string>
+    <string name="system_message_info_body">A newer version of this app is available</string>
+    <string name="system_message_info_icon">System message info icon</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="build_version">Build Version</string>
+    <string name="feedback_title">Send Feedback</string>
+    <string name="feedback_body">Report technical issues or suggest new features</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="email_subject">Feedback</string>
+    <string name="email_body">Describe the issue you have encountered</string>
+    <string name="email_title">Send Feedback</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938371828126",
+    "firebase_url": "https://virustracker-aeded.firebaseio.com",
+    "project_id": "virustracker-aeded",
+    "storage_bucket": "virustracker-aeded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938371828126:android:312a995de1ad705991ae8f",
+        "android_client_info": {
+          "package_name": "com.bilingoal.virustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938371828126-dtuitau08ab3c3toubuiikjrdmv8uk37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilingoal.virustracker",
+            "certificate_hash": "a6cd9569e15c4b0f36bb1cd5fd09ef92a7415722"
+          }
+        },
+        {
+          "client_id": "938371828126-13roiidhm1ctef31m6214cgmelphd5ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDohbM80rErhu23kpv8XaRBmQy9uahpVG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938371828126-13roiidhm1ctef31m6214cgmelphd5ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

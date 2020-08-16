@@ -1,0 +1,97 @@
+{
+  "Global": {
+    "NewConfirmed": 101781,
+    "TotalConfirmed": 6829314,
+    "NewDeaths": 3800,
+    "TotalDeaths": 402636,
+    "NewRecovered": 131192,
+    "TotalRecovered": 3000504
+  },
+  "Countries": [
+    {
+      "Country": "Afghanistan",
+      "CountryCode": "AF",
+      "Slug": "afghanistan",
+      "NewConfirmed": 915,
+      "TotalConfirmed": 18969,
+      "NewDeaths": 9,
+      "TotalDeaths": 309,
+      "NewRecovered": 177,
+      "TotalRecovered": 1762,
+      "Date": "2020-06-06T05:03:23Z"
+    },
+    {
+      "Country": "Afghanistan",
+      "CountryCode": "AF",
+      "Slug": "afghanistan",
+      "NewConfirmed": 915,
+      "TotalConfirmed": 18969,
+      "NewDeaths": 9,
+      "TotalDeaths": 309,
+      "NewRecovered": 177,
+      "TotalRecovered": 1762,
+      "Date": "2020-06-06T05:03:23Z"
+    },
+    {
+      "Country": "Afghanistan",
+      "CountryCode": "AF",
+      "Slug": "afghanistan",
+      "NewConfirmed": 915,
+      "TotalConfirmed": 18969,
+      "NewDeaths": 9,
+      "TotalDeaths": 309,
+      "NewRecovered": 177,
+      "TotalRecovered": 1762,
+      "Date": "2020-06-06T05:03:23Z"
+    },
+    {
+      "Country": "Afghanistan",
+      "CountryCode": "AF",
+      "Slug": "afghanistan",
+      "NewConfirmed": 915,
+      "TotalConfirmed": 18969,
+      "NewDeaths": 9,
+      "TotalDeaths": 309,
+      "NewRecovered": 177,
+      "TotalRecovered": 1762,
+      "Date": "2020-06-06T05:03:23Z"
+    },
+    {
+      "Country": "Albania",
+      "CountryCode": "AL",
+      "Slug": "albania",
+      "NewConfirmed": 15,
+      "TotalConfirmed": 1212,
+      "NewDeaths": 0,
+      "TotalDeaths": 33,
+      "NewRecovered": 12,
+      "TotalRecovered": 910,
+      "Date": "2020-06-06T05:03:23Z"
+    },
+    {
+      "Country": "Algeria",
+      "CountryCode": "DZ",
+      "Slug": "algeria",
+      "NewConfirmed": 104,
+      "TotalConfirmed": 9935,
+      "NewDeaths": 9,
+      "TotalDeaths": 690,
+      "NewRecovered": 156,
+      "TotalRecovered": 6453,
+      "Date": "2020-06-06T05:03:23Z"
+    },
+    {
+      "Country": "Andorra",
+      "CountryCode": "AD",
+      "Slug": "andorra",
+      "NewConfirmed": 0,
+      "TotalConfirmed": 852,
+      "NewDeaths": 0,
+      "TotalDeaths": 51,
+      "NewRecovered": 3,
+      "TotalRecovered": 741,
+      "Date": "2020-06-06T05:03:23Z"
+    }
+  ],
+  "Date": "2020-06-06T05:03:23Z"
+}

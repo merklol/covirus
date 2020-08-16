@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/global"
+            android:title="@string/bottom_nav_menu_global"
+            android:icon="@drawable/ic_globe"/>
+    <item
+            android:id="@+id/countries"
+            android:title="@string/bottom_nav_menu_countries"
+            android:icon="@drawable/ic_list"/>
+</menu>
