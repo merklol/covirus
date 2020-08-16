@@ -4,7 +4,7 @@
     <data>
         <variable
                 name="item"
-                type="com.bilingoal.virustracker.dto.Country" />
+                type="com.bilingoal.covirus.dto.Country" />
     </data>
     <RelativeLayout
             xmlns:android="http://schemas.android.com/apk/res/android"

@@ -2,7 +2,7 @@
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
     <data>
-        <variable name="global" type="com.bilingoal.virustracker.dto.Global"/>
+        <variable name="global" type="com.bilingoal.covirus.dto.Global"/>
     </data>
 <com.google.android.material.card.MaterialCardView
         android:layout_width="match_parent"

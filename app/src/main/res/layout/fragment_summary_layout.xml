@@ -4,7 +4,7 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         xmlns:bind="http://schemas.android.com/apk/res-auto">
     <data>
-        <variable name="summary" type="com.bilingoal.virustracker.dto.Summary"/>
+        <variable name="summary" type="com.bilingoal.covirus.dto.Summary"/>
     </data>
     <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"

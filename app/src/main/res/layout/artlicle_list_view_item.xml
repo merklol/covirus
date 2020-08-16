@@ -3,7 +3,7 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         xmlns:tools="http://schemas.android.com/tools">
     <data>
-        <variable name="item" type="com.bilingoal.virustracker.dto.Article"/>
+        <variable name="item" type="com.bilingoal.covirus.dto.Article"/>
     </data>
     <com.google.android.material.card.MaterialCardView
             android:layout_width="match_parent"

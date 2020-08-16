@@ -7,7 +7,7 @@
 
     <fragment
             android:id="@+id/mainFragment"
-            android:name="com.bilingoal.virustracker.main.MainFragment"
+            android:name="com.bilingoal.covirus.main.MainFragment"
             android:label="@string/app_name">
 
 
@@ -24,13 +24,13 @@
 
     <fragment
             android:id="@+id/detailsFragment"
-            android:name="com.bilingoal.virustracker.details.DetailsFragment"
+            android:name="com.bilingoal.covirus.details.DetailsFragment"
             android:label="Details"
             tools:layout="@layout/fragment_details"/>
 
     <fragment
             android:id="@+id/settingsFragment"
-            android:name="com.bilingoal.virustracker.settings.SettingsFragment"
+            android:name="com.bilingoal.covirus.settings.SettingsFragment"
             android:label="Settings"
             tools:layout="@layout/fragment_settings"/>
 </navigation>
