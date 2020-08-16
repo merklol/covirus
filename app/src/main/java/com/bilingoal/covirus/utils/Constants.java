@@ -7,4 +7,6 @@ public class Constants {
     public static final String APP_VERSION_COLLECTION = "app_version";
     public static final String APP_VERSION_DOCUMENT_ID = "uO8q6z5RhcySdrFyVRqI";
     public static final String ARTICLES_COLLECTION = "latest_news";
+    public static final String PRIVACY_POLICY_URL = "https://covirus-maximcode.netlify.app";
+    public static final String EMAIL = "sm.maksim@icloud.com";
 }
